@@ -43,6 +43,41 @@ Then, run the script to install the necessary libraries and start the "Night Vis
 ```bash
 ./script.sh
 ```
+
+
+## Run Locally
+
+If the above method do not work for you, follow the steps given below.
+
+### 1. Clone the Repository
+```bash
+  git clone https://github.com/niharikadadu/LightRefresh.git
+```
+
+### 2. Go to the project directory
+
+```bash
+  cd LightRefresh
+```
+
+### 3. Install dependencies
+
+```bash
+  sudo apt install libgtk-3-dev
+```
+
+### 4. Compile the .c file
+
+```bash
+  gcc `pkg-config --cflags gtk+-3.0` -o lightref lightref.c `pkg-config --libs gtk+-3.0`
+```
+
+### 5. Run the executable
+
+```bash
+    ./lightref
+```
+
 ### Usage
 The "LightRefresh" program will open with a GUI. You can use the provided buttons to start, pause, and reset the timer. After 5 minutes, you will experience the "Blue-light" effect on your screen. When you exit the program, it will display the total time elapsed and the time spent in "Blue-light" filter mode in minutes and seconds.
 
