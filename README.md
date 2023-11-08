@@ -22,29 +22,29 @@ Follow these steps to use the "Night Vision Timer" on your Linux system.
 Clone the project repository from GitHub to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/night-vision-timer.git
+git clone https://github.com/niharikadadu/LightRefresh.git
 ```
 
 ### 2. Change to the Project Directory
 Navigate to the project directory using the cd command:
 
 ```bash
-cd night-vision-timer
+cd LightRefresh
 ```
 
 ### 3. Run the Bash Script
 Make the Bash script executable if it's not already:
 
 ```bash
-chmod +x install_and_run.sh
+chmod +x script.sh
 ```
 Then, run the script to install the necessary libraries and start the "Night Vision Timer" program:
 
 ```bash
-./install_and_run.sh
+./script.sh
 ```
 ### Usage
-The "Night Vision Timer" program will open with a GUI. You can use the provided buttons to start, pause, and reset the timer. After 5 minutes, you will experience the "night vision" effect on your screen. When you exit the program, it will display the total time elapsed and the time spent in "night vision" mode in minutes and seconds.
+The "LightRefresh" program will open with a GUI. You can use the provided buttons to start, pause, and reset the timer. After 5 minutes, you will experience the "Blue-light" effect on your screen. When you exit the program, it will display the total time elapsed and the time spent in "Blue-light" filter mode in minutes and seconds.
 
 
 
