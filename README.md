@@ -49,7 +49,7 @@ The "LightRefresh" program will open with a GUI. You can use the provided button
 ## Authors
 
 - [Harsh Singh](https://github.com/harsh-s15)
-- [Samarth Patel](https://github.com/KiRaN-110)
-- [Sai Kiran Reddy](https://github.com/Samarth11203)
+- [Sai Kiran Reddy](https://github.com/KiRaN-110)
+- [Samarth Patel](https://github.com/Samarth11203)
 - [Niharika Dadu](https://github.com/niharikadadu)
 
