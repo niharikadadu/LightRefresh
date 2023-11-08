@@ -5,9 +5,11 @@ The "Night Vision Timer" is a C program with a graphical user interface (GUI) bu
 
 <h3>Features : </h3>
 <ul>
-<li><b>Timer Functionality: </b>The program functions as a timer that counts elapsed time in minutes and seconds.</li>
+<li><b>Blink Mode : </b>The program will notify the user after specified time to take a break or distract his/her vision from screen for some time to ensure health of the eyes.</li>
 
-<li><b>Night Vision Mode: </b> After a specified time interval (5 minutes), the program changes the screen gamma settings, filtering out the blue. </li>
+<li><b>Blue Ray Guard Mode : </b>The program will automatically reduce the emission of blue rays on the screen for a specific amount of time.</li>
+
+<li><b>Total Care Mode : </b>This mode is the combination of the Blink and Blue Ray Guard Mode which will notify the user and also reduce the emission of blue rays from the screen.</li>
 
 <li><b>User Controls: </b>The user can interact with the program through the GUI, with options to start, pause, and reset the timer.</li>
 
