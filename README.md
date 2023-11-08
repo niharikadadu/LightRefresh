@@ -13,3 +13,39 @@ The "Night Vision Timer" is a C program with a graphical user interface (GUI) bu
 
 <li><b>Display Total Time: </b>Upon exiting the program, it displays the total time elapsed and the time spent in Blue Filter mode in a user-friendly format of minutes and seconds.</li>
 </ul>
+
+## Getting Started
+
+Follow these steps to use the "Night Vision Timer" on your Linux system.
+
+### 1. Clone the Repository
+Clone the project repository from GitHub to your local machine using the following command:
+
+```bash
+git clone https://github.com/yourusername/night-vision-timer.git
+```
+
+### 2. Change to the Project Directory
+Navigate to the project directory using the cd command:
+
+```bash
+cd night-vision-timer
+```
+
+### 3. Run the Bash Script
+Make the Bash script executable if it's not already:
+
+```bash
+chmod +x install_and_run.sh
+```
+Then, run the script to install the necessary libraries and start the "Night Vision Timer" program:
+
+```bash
+./install_and_run.sh
+```
+### Usage
+The "Night Vision Timer" program will open with a GUI. You can use the provided buttons to start, pause, and reset the timer. After 5 minutes, you will experience the "night vision" effect on your screen. When you exit the program, it will display the total time elapsed and the time spent in "night vision" mode in minutes and seconds.
+
+
+
+
