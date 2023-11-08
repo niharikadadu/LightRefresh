@@ -46,6 +46,10 @@ Then, run the script to install the necessary libraries and start the "Night Vis
 ### Usage
 The "LightRefresh" program will open with a GUI. You can use the provided buttons to start, pause, and reset the timer. After 5 minutes, you will experience the "Blue-light" effect on your screen. When you exit the program, it will display the total time elapsed and the time spent in "Blue-light" filter mode in minutes and seconds.
 
+## Authors
 
-
+- [Harsh Singh](https://github.com/harsh-s15)
+- [Samarth Patel](https://github.com/KiRaN-110)
+- [Sai Kiran Reddy](https://github.com/Samarth11203)
+- [Niharika Dadu](https://github.com/niharikadadu)
 
