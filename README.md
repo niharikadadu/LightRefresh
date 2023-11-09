@@ -43,7 +43,7 @@ chmod +x script.sh
 Then, run the script to install the necessary libraries and start the "Night Vision Timer" program:
 
 ```bash
-./script.sh
+bash script.sh
 ```
 
 
