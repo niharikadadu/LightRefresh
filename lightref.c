@@ -117,9 +117,13 @@ static void change_gamma() {
     printf("%s\n", sysCall1);
 
     
-    if(userChoice == 1 || userChoice == 3){
+    if(userChoice == 1){
         system("zenity --info --text=\"You have been using the screen continuously for the past 20 minutes. We recommend you to take a 20 second break now. \n"
-           "Please relax your eyes and focus on some distant object before resuming your work again!\n\n Blue light filter activated for the next 180 seconds.\"");
+           "Please relax your eyes and focus on some distant object before resuming your work again!\n\n \"");
+    }
+    if(userChoice == 3) {
+        system("zenity --info --text=\"You have been using the screen continuously for the past 20 minutes. We recommend you to take a 20 second break now. \n"
+           "Please relax your eyes and focus on some distant object before resuming your work again!\n\n Blue light filter activated for the next 20 seconds.\"");
     }
     if(userChoice == 2 || userChoice == 3){
         system(sysCall1);
