@@ -1,9 +1,9 @@
 # Light-Refresh
 
-Project Description
+<h3> Project Description </h3>
 The "Night Vision Timer" is a C program with a graphical user interface (GUI) built using the GTK+ library. This project combines timer functionality with screen setting control to reduce blue light exposure for a healthy screen experience for your eyes. The program allows users to keep track of time and experience a Blue-light filter effect after a set duration.
 
-<h3>Features : </h3>
+<h3>Features </h3>
 <ul>
 <li><b>Blink Mode : </b>The program will notify the user after specified time to take a break or distract his/her vision from screen for some time to ensure health of the eyes.</li>
 
